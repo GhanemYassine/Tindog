@@ -9,6 +9,37 @@ h1{
   line-height: 1.5;
 
 }
+h3{
+  font-family: "Montserrat-bold",sans-serif;
+  font-size: 1.5rem;
+}
+#features {
+  position: relative;
+}
+.fa-check-circle{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.fa-bullseye{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.fa-heart{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.fa-check-circle:hover{
+  color: #ff4c68;
+}
+.fa-bullseye:hover{
+  color: #ff4c68;
+}
+.fa-heart:hover{
+  color: #ff4c68;
+}
+.desc1{
+  color: #8f8f8f;
+}
 #title{
   background-color: #ff4c68;
   color: white;
@@ -42,3 +73,4 @@ a{
   width: 60%;
   transform: rotate(25deg);
 }
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
