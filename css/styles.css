@@ -121,3 +121,26 @@ a{
     transform: rotate(0);
   }
 }
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+#h3{
+  color: white;
+}
+#footer{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#Copyright{
+  color: grey;
+}
+.icons{
+  margin: 10px;
+  font-size: 4rem;
+}
